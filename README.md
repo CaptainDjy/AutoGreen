@@ -17,3 +17,4 @@ Every day you can light up the green spot in GitHub  repository！
 
 *
 *
+没有用呀,虽然有commit,但是并没有一点的变绿呀,什么原因呀请问一下.
